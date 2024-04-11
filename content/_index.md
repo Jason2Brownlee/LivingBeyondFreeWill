@@ -15,7 +15,7 @@ I hope you find it interesting.
 
 ![Cover](cover.png)
 
-### Book Details
+### Details
 
 * **Title**: Living Beyond Free Will
 * **Subtitle**: Strategies for Self-Improvement, Parenting, and Finding Purpose In A World Without Free Will
@@ -23,7 +23,59 @@ I hope you find it interesting.
 * **Date**: April 10 2024.
 * **Publisher**: Self-Published
 
-### Book Synopsis
+### Table of Contents
+
+* [Preface](/docs/preface)
+* [Introduction](/docs/introduction)
+	* Understanding Free Will
+	* The Premise of this Book
+	* The Illusion of Free Will
+	* Implications of a World Without Free Will
+	* The Need for a New Paradigm
+	* Living Without Free Will
+	* Embracing a Deterministic Approach to Life
+* [Chapter 1: Success and Failure Without Free Will](/docs/chapter01)
+	* The Illusion of Choice in Success and Failure
+	* Deconstructing Common Myths
+	* Reframing Success and Failure
+	* Navigating Life Without Free Will
+	* Ethical Considerations
+	* Practical Tools for a Deterministic Perspective
+	* Embracing a Deterministic Approach to Self Improvement
+* [Chapter 2: Self-Improvement Without Free Will](/docs/chapter02)
+	* The Illusion of Choice in Self-Improvement
+	* Rethinking Personal Agency and Responsibility
+	* Adapting to Our Environmental and Psychological Influences
+	* Leveraging Psychological Tools for Change
+	* The Importance of Community and Relationships
+	* Setting Goals and Finding Purpose
+	* Embracing a Deterministic Approach to Self Improvement
+* [Chapter 3: Parenting Without Free Will](/docs/chapter03)
+	* The Illusion of Choice in Parenting
+	* Foundations of Deterministic Parenting
+	* Practical Applications of Deterministic Parenting
+	* Fostering Autonomy and Resilience
+	* Education and Socialization in a Determined Universe
+	* Rethinking Motivation and Achievement
+	* The Broader Implications of Parenting Without Free Will
+	* Embracing a Deterministic Approach to Parenting
+* [Chapter 4: Meaning Without Free Will](/docs/chapter04)
+	* The Illusion of Choice in Meaning
+	* Dismantling Common Myths About Meaning and Success
+	* The Overrated Power of Positive Thinking
+	* Revisiting Karma and Moral Responsibility
+	* The Pursuit of Happiness Reevaluated
+	* Destiny Reimagined
+	* Embracing a Deterministic Approach to Meaning
+* [Conclusions](/docs/conclusions)
+	* Life Without Free Will
+	* A Call to Action
+* [Appendix A: Recommended Reading](/docs/appendix_a)
+* [Appendix B: Philosophy of Free Will Glossary](/docs/appendix_b)
+* [Appendix C: Contradiction Between Self-Improvement and No Free Will](/docs/appendix_c)
+* [Appendix D: Psychological Methods Coherent With No Free Will](/docs/appendix_d)
+
+### Synopsis
 
 > "Living Beyond Free Will: Strategies for Self-Improvement, Parenting, and Finding Purpose In A World Without Free Will" is a book that challenges you to take the illusion of free will for granted and offers a pragmatic approach to personal growth, parenting, and meaning-making in a world where our choices and actions are ultimately determined by factors beyond our conscious control.
 >
@@ -38,7 +90,7 @@ I hope you find it interesting.
 > Through clear, actionable advice and thought-provoking insights, "Living Beyond Free Will" offers a liberating alternative perspective for anyone struggling with the implications of a deterministic worldview. Whether you're a parent, a seeker of personal growth, or simply someone searching for meaning in a seemingly predetermined world, this book provides a practical, evidence-based guide to living your best life, free from the constraints of the free will illusion.
 
 
-## Book Links
+### Links
 
 * [Amazon](https://amzn.to/43XCLfM)
 * [Goodreads](https://www.goodreads.com/book/show/211162094-living-beyond-free-will)
