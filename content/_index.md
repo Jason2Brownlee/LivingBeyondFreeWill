@@ -13,7 +13,7 @@ This book was an experiment, developed in collaboration with ChatGPT4 and Claude
 
 I hope you find it interesting.
 
-![Cover](/cover.png)
+![Cover](cover.png)
 
 ### Book Details
 

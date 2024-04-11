@@ -5,4 +5,4 @@ dist
 tmp
 resources
 bin
-
+.hugo_build.lock
