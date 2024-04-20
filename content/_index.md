@@ -1,6 +1,5 @@
 ---
-title: Introduction
-type: docs
+title: Home
 ---
 
 # Living Beyond Free Will
@@ -94,6 +93,6 @@ I hope you find it interesting.
 
 * [Amazon](https://amzn.to/43XCLfM)
 * [Goodreads](https://www.goodreads.com/book/show/211162094-living-beyond-free-will)
-* Google Play (soon)
-* Google Books (soon)
+* [Google Play](https://play.google.com/store/books/details?id=VGkBEQAAQBAJ)
+* [Google Books](https://books.google.com/books/about?id=VGkBEQAAQBAJ)
 
