@@ -1,5 +1,5 @@
 ---
-title: Chapter 3
+title: Chapter 3 - Parenting Without Free Will
 weight: 4
 ---
 # Chapter 3: Parenting Without Free Will

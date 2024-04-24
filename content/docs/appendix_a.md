@@ -1,5 +1,5 @@
 ---
-title: Appendix A
+title: Appendix A - Free Will Recommended Reading
 weight: 7
 ---
 # Appendix A: Free Will Recommended Reading

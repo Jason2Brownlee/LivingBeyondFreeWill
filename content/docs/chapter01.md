@@ -1,5 +1,5 @@
 ---
-title: Chapter 1
+title: Chapter 1 - Success and Failure Without Free Will
 weight: 3
 ---
 # Chapter 1: Success and Failure Without Free Will

@@ -1,5 +1,5 @@
 ---
-title: Appendix C
+title: Appendix C - Contradiction Between Self-Improvement and No Free Will
 weight: 9
 ---
 # Appendix C: Contradiction Between Self-Improvement and No Free Will

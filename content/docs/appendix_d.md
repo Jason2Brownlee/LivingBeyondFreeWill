@@ -1,5 +1,5 @@
 ---
-title: Appendix D
+title: Appendix D - Psychological Methods Coherent With No Free Will
 weight: 10
 ---
 # Appendix D: Psychological Methods Coherent With No Free Will

@@ -1,5 +1,5 @@
 ---
-title: Chapter 2
+title: Chapter 2 - Self-Improvement Without Free Will
 weight: 3
 ---
 # Chapter 2: Self-Improvement Without Free Will

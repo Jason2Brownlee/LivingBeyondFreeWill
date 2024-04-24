@@ -1,5 +1,5 @@
 ---
-title: Chapter 4
+title: Chapter 4 - Meaning Without Free Will
 weight: 5
 ---
 # Chapter 4: Meaning Without Free Will

@@ -6,69 +6,23 @@ title: Home
 
 ## Welcome!
 
-This is the free online version of my book "_Living Beyond Free Will_".
+This is the free online version of my book:
 
-This book was an experiment, developed in collaboration with ChatGPT4 and Claude3.
+* "**Living Beyond Free Will: Strategies for Self-Improvement, Parenting, and Finding Purpose In A World Without Free Will**", [Jason Brownlee](http://JasonBrownlee.me), 2024.
 
-I hope you find it interesting.
+This book was an experiment, developed in collaboration with LLMs. I hope you find it interesting.
 
 ![Cover](cover.png)
-
-### Details
-
-* **Title**: Living Beyond Free Will
-* **Subtitle**: Strategies for Self-Improvement, Parenting, and Finding Purpose In A World Without Free Will
-* **Author**: [Jason Brownlee](http://JasonBrownlee.me)
-* **Date**: April 10 2024.
-* **Publisher**: Self-Published
 
 ### Table of Contents
 
 * [Preface](/docs/preface)
 * [Introduction](/docs/introduction)
-	* Understanding Free Will
-	* The Premise of this Book
-	* The Illusion of Free Will
-	* Implications of a World Without Free Will
-	* The Need for a New Paradigm
-	* Living Without Free Will
-	* Embracing a Deterministic Approach to Life
 * [Chapter 1: Success and Failure Without Free Will](/docs/chapter01)
-	* The Illusion of Choice in Success and Failure
-	* Deconstructing Common Myths
-	* Reframing Success and Failure
-	* Navigating Life Without Free Will
-	* Ethical Considerations
-	* Practical Tools for a Deterministic Perspective
-	* Embracing a Deterministic Approach to Self Improvement
 * [Chapter 2: Self-Improvement Without Free Will](/docs/chapter02)
-	* The Illusion of Choice in Self-Improvement
-	* Rethinking Personal Agency and Responsibility
-	* Adapting to Our Environmental and Psychological Influences
-	* Leveraging Psychological Tools for Change
-	* The Importance of Community and Relationships
-	* Setting Goals and Finding Purpose
-	* Embracing a Deterministic Approach to Self Improvement
 * [Chapter 3: Parenting Without Free Will](/docs/chapter03)
-	* The Illusion of Choice in Parenting
-	* Foundations of Deterministic Parenting
-	* Practical Applications of Deterministic Parenting
-	* Fostering Autonomy and Resilience
-	* Education and Socialization in a Determined Universe
-	* Rethinking Motivation and Achievement
-	* The Broader Implications of Parenting Without Free Will
-	* Embracing a Deterministic Approach to Parenting
 * [Chapter 4: Meaning Without Free Will](/docs/chapter04)
-	* The Illusion of Choice in Meaning
-	* Dismantling Common Myths About Meaning and Success
-	* The Overrated Power of Positive Thinking
-	* Revisiting Karma and Moral Responsibility
-	* The Pursuit of Happiness Reevaluated
-	* Destiny Reimagined
-	* Embracing a Deterministic Approach to Meaning
 * [Conclusions](/docs/conclusions)
-	* Life Without Free Will
-	* A Call to Action
 * [Appendix A: Recommended Reading](/docs/appendix_a)
 * [Appendix B: Philosophy of Free Will Glossary](/docs/appendix_b)
 * [Appendix C: Contradiction Between Self-Improvement and No Free Will](/docs/appendix_c)
@@ -91,6 +45,7 @@ I hope you find it interesting.
 
 ### Links
 
+* [Book Home](https://jason2brownlee.github.io/LivingBeyondFreeWill/)
 * [Amazon](https://amzn.to/43XCLfM)
 * [Goodreads](https://www.goodreads.com/book/show/211162094-living-beyond-free-will)
 * [Google Play](https://play.google.com/store/books/details?id=VGkBEQAAQBAJ)

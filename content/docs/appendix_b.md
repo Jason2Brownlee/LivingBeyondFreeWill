@@ -1,5 +1,5 @@
 ---
-title: Appendix B
+title: Appendix B - Philosophy of Free Will Glossary
 weight: 8
 ---
 # Appendix B: Philosophy of Free Will Glossary
