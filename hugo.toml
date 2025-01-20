@@ -1,4 +1,4 @@
-baseURL = 'https://jason2brownlee.github.io/LivingBeyondFreeWill'
+baseURL = 'https://jasonbrownlee.me/LivingBeyondFreeWill'
 languageCode = 'en-us'
 title = 'Living Beyond Free Will'
 theme = 'hugo-book'
